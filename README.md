@@ -1,2 +1,2 @@
-# Stage-One--Angry-Birds
-Angry Birds in JavaScript
+# angryBirdsStage1
+Stage 1 Angry Birds
